@@ -1,13 +1,10 @@
-# Created by: alexander naumochkin <alexander.naumochkin@gmail.com>
-# $FreeBSD$
-
 PORTNAME=	rgxg
 DISTVERSION=	0.1.2
 CATEGORIES=	devel
 MASTER_SITES=	https://github.com/${PORTNAME}/${PORTNAME}/releases/download/v${DISTVERSION}/
 
 MAINTAINER=	alexander.naumochkin@gmail.com
-COMMENT=	ReGular eXpression Generator
+COMMENT=	Regular expression generator
 
 LICENSE=	ZLIB
 LICENSE_FILE=	${WRKSRC}/COPYING
